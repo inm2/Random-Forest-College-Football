@@ -9,4 +9,4 @@ In this program and any future programs, my focus is to understand some of these
 My first program in this series is to create a Random Forest Classifier to look at some of the most important factors that are involved with passing, running, or punting the football when an offense is on the field. 
 
 ## Project Link
-1. [Random Forest Classifier - College Football]()
+1. [Random Forest Classifier - College Football](https://github.com/inm2/Random-Forest-College-Football/blob/main/Random%20Forest%20Classifier.ipynb)
